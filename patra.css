@@ -39,11 +39,11 @@ body{
 
     border-radius:50%	
 	}
-   
+/*    
 .arrivals{
     display:flex;
     
-    }
+    } */
 a:hover{
     background-color:#ED008C;
 }
@@ -54,7 +54,7 @@ a:hover{
     flex-wrap: wrap;
     }
     .arr{
-        font-size:10px;
+        font-size:20px;
         }
 h1{
     font-family:"baskerville old face",serif	
@@ -68,10 +68,11 @@ font-family:centaur, serif
 }
 
 a{
-	text-decoration:none;
+	text-decoration:dotted;
 	color:black;
 	text-transform:capitalize;
-	margin-right:50px
+	margin-right:50px;
+    border-radius: 30%;
 	}
 
 .foot{	display: flex;
