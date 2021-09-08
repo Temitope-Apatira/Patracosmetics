@@ -19,6 +19,16 @@ body{
     box-shadow:5px 5px 10px #ED008C;
 	}
 
+.firstt{
+    min-height:600px;
+    color:black;
+    overflow:auto;
+    background-image:url("images/maa.jpg");
+    background-size:cover;
+    background-position:bottom;
+    box-shadow:5px 5px 10px #ED008C;
+    }
+
 #ab{
     height:50vh;
 
