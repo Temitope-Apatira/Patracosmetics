@@ -36,11 +36,11 @@ body{
     background-size:
      cover;
     }	
-
+/* 
 .shop{
     display: flex; 
     justify-content: space-between;
-} 
+}  */
 
 .join{
     display: flex; 
@@ -57,7 +57,7 @@ body{
     
     } */
 a:hover{
-    background-color:#ED008C;
+    background-color:#eec3dc;
 }
 
 .info{
