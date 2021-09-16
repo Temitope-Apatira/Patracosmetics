@@ -47,6 +47,10 @@ body{
     justify-content: space-around;
 }
 
+p{
+    font-size: 30px;
+}
+
 .img{
 
     border-radius:50%	
@@ -66,7 +70,7 @@ a:hover{
     flex-wrap: wrap;
     }
     .arr{
-        font-size:20px;
+        font-size:30px;
         }
 h1{
     font-family:"baskerville old face",serif	
@@ -92,7 +96,7 @@ a{
     height: 10vh;	
     }
 .theme{
-    height:10vh;
+    
     color:seashell;
     box-sizing:border-box;
     background-color:#1D0E1B;
