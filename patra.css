@@ -51,6 +51,12 @@ p{
     font-size: 30px;
 }
 
+.overlay{
+    /* background-color: rgba(237,0,140,0.5); */
+
+    background-color: rgba(242,233,227,0.8);
+}
+
 .img{
 
     border-radius:50%	
